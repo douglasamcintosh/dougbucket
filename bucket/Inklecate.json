@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/inkle/ink/releases/download/v1.0.0/inklecate_windows.zip",
+  "license": "MIT-Modern-Variant",
+  "homepage": "https://github.com/inkle/ink",
+  "bin": "inklecate.exe",
+  "extract_dir": "",
+  "depends": "",
+  "hash": "",
+  "version": "1.0"
+}
