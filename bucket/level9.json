@@ -1,11 +1,9 @@
 {
     "version":  "5.1",
+    "url":  "https://ifarchive.org/if-archive/level9/interpreters/level9/Level9_5.1_Win32.zip",
+    "hash":  "f22b63951e59b93ba50b72a9ae9d54e9c0aa61e6f9887301b858be04e00e2e39",
     "license":  "GPL-2.0-or-later",
     "description": "A Level 9 Interactive Fiction interpreter for windows. Use Gargoyle instead.",
-    "extract_dir":  "",
-    "url":  "https://ifarchive.org/if-archive/level9/interpreters/level9/Level9_5.1_Win32.zip",
-    "depends":  "",
     "homepage":  "https://www.ifwiki.org/Level_9",
-    "hash":  "f22b63951e59b93ba50b72a9ae9d54e9c0aa61e6f9887301b858be04e00e2e39",
     "bin":  "Level9.exe"
 }
