@@ -9,5 +9,6 @@
     },
     "env_add_path": "plugins\\platforms",
     "homepage":  "https://github.com/garglk/garglk/releases",
+    "persist": "garglk.ini",
     "bin":  "gargoyle.exe"
 }
