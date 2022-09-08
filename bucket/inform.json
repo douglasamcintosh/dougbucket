@@ -2,7 +2,7 @@
     "version":  "10.1.2",
     "license":  "CC-BY-4.0",
     "extract_dir":  "",
-    "url":  "https://github.com/ganelson/inform/releases/download/v10.1.2/Inform_10_1_2_Windows.zip",
+    "url":  "https://github.com/DavidKinder/Windows-Inform7/releases/download/10_1_2/Inform_10_1_2_Windows_zipped_files.zip",
     "homepage":  "https://github.com/ganelson/inform/releases",
     "hash":  "",
     "bin":  "Inform.exe"
