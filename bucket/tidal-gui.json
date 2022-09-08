@@ -1,0 +1,8 @@
+{
+    "version":  "1.2.1.10",
+    "license":  "Apache-2.0",
+    "url":  "https://github.com/yaronzz/Tidal-Media-Downloader-PRO/releases/download/1.2.1.10/tidal-gui.exe",
+    "homepage":  "https://github.com/yaronzz/Tidal-Media-Downloader-PRO",
+    "hash":  "",
+    "bin":  "tidal-gui.exe"
+}
