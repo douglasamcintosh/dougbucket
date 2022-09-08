@@ -4,7 +4,7 @@
     "architecture": {
         "64bit": {
             "url":  "https://github.com/garglk/garglk/releases/download/2022.1/gargoyle-2022.1-windows-x86_64.zip",
-            "hash": ""
+            "hash": "c61a6f44a73588a9f3757be56c4975ec8b606f671794f6ac901d59bb6f65040a"
         }
     },
     "env_add_path": "plugins\\platforms",
