@@ -1,0 +1,13 @@
+{
+    "version":  "2022.1",
+    "license":  "Unknown",
+    "architecture": {
+        "64bit": {
+            "url":  "https://github.com/garglk/garglk/releases/download/2022.1/gargoyle-2022.1-windows-x86_64.zip",
+            "hash": ""
+        }
+    },
+    "env_add_path": "plugins\\platforms",
+    "homepage":  "https://github.com/garglk/garglk/releases",
+    "bin":  "gargoyle.exe"
+}
