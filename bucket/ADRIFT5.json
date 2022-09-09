@@ -3,7 +3,6 @@
     "license":  "Proprietary",
     "extract_dir":  "5.0.36.6",
     "url":  "https://www.adrift.co/files/ADRIFT5.zip",
-    "depends":  "",
     "homepage":  "https://www.adrift.co/",
     "hash":  "",
     "bin":  [["run500.exe","adrift"],["dev500.exe", "adriftdev"]]
