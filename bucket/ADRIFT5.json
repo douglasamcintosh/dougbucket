@@ -4,6 +4,6 @@
     "extract_dir":  "5.0.36.6",
     "url":  "https://www.adrift.co/files/ADRIFT5.zip",
     "homepage":  "https://www.adrift.co/",
-    "hash":  "",
+    "hash":  "b2f5e8ba5d03418e357ea9308e9ccaeb248a0ecb0d5d9260ce416be7d15c2a2b",
     "bin":  [["run500.exe","adrift"],["dev500.exe", "adriftdev"]]
 }
