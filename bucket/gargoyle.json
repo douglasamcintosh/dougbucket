@@ -10,5 +10,14 @@
     "env_add_path": "plugins\\platforms",
     "homepage":  "https://github.com/garglk/garglk/releases",
     "persist": "garglk.ini",
-    "bin":  "gargoyle.exe"
+    "description": "Gargoyle is an IF player that supports all the major interactive fiction formats.",
+    "shortcuts": [
+    ["gargoyle.exe","Gargoyle/Gargoyle"],
+            ["advsys.exe","Gargoyle/Advsys"],
+            ["agility.exe","Gargoyle/Agility"],
+            ["magnetic.exe","Gargoyle/Magnetic Scrolls"],
+            ["level9.exe","Gargoyle/Level 9"],
+            ["glulxe.exe","Gargoyle/Glulxe"]
+    ],
+    "bin":  ["gargoyle.exe","advsys.exe","agility.exe","magnetic.exe","level9.exe","glulxe.exe"]
 }
