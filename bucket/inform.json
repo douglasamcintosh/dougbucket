@@ -1,9 +1,0 @@
-{
-    "version":  "10.1.2",
-    "license":  "CC-BY-4.0",
-    "extract_dir":  "",
-    "url":  "https://github.com/ganelson/inform/releases/download/v10.1.2/Inform_10_1_2_Windows.zip",
-    "homepage":  "https://github.com/ganelson/inform/releases",
-    "hash":  "",
-    "bin":  "Inform.exe"
-}
