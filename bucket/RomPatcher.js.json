@@ -4,6 +4,6 @@
     "extract_dir":  "RomPatcher.js-2.6.2",
     "url":  "https://github.com/marcrobledo/RomPatcher.js/archive/refs/tags/v2.6.2.zip",
     "homepage":  "https://github.com/marcrobledo/RomPatcher.js/",
-    "hash":  "ca877c0da078965a7ad1d1981ce94c2fa8f5e615421e08ad036d30ca25591d48",
+    "hash":  "eacc14024689017b6064722be2eb7bcb4a4b4c9d060ad9f70765e13fa21a840f",
     "bin":  [["index.html", "rompatcher"]]
 }
