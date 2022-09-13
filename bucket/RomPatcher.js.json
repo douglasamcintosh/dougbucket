@@ -1,0 +1,9 @@
+{
+    "version":  "v2.6.2",
+    "license":  "MIT",
+    "extract_dir":  "RomPatcher.js-2.6.2",
+    "url":  "https://github.com/marcrobledo/RomPatcher.js/archive/refs/tags/v2.6.2.zip",
+    "homepage":  "https://github.com/marcrobledo/RomPatcher.js/",
+    "hash":  "ca877c0da078965a7ad1d1981ce94c2fa8f5e615421e08ad036d30ca25591d48",
+    "bin":  [["index.html", "rompatcher"]]
+}
