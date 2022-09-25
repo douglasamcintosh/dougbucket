@@ -1,8 +1,0 @@
-{
-    "version":  "v1.1.0",
-    "license":  "Unknown",
-    "url":  "https://github.com/RetroDriven/Pocket_Updater/releases/download/v1.1.0/Pocket_Updater.zip",
-    "homepage":  "https://github.com/RetroDriven/Pocket_Updater",
-    "hash":  "f55f9e9452115b7df842ab265b32e2cccc6cd0ec666a026a8854a8328253254a",
-    "bin":  [["Pocket Updater.exe.", "pocketupdater"]]
-}
