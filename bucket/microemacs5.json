@@ -1,0 +1,7 @@
+{
+    "version":  "5.0",
+    "license":  "GPL",
+    "url":  "https://github.com/pmachapman/memacs/releases/download/5.0/emacs5.zip",
+    "hash":  "e582966e7c54c317639fc24c6f79f6dc2e8492d8241e62977b8805edee15d097",
+    "bin":  [["emacs.exe", "emacs5"]]
+}
