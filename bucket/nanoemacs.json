@@ -1,9 +1,7 @@
 {
     "version":  "20091011",
     "license":  "Public Domain",
-    "extract_dir":  "",
     "url":  ["http://www.jasspa.com/release_20090909/jasspa-ne-ms-win32-20091011.zip", "http://www.jasspa.com/release_20090909/ne.emf"],
-    "depends":  "",
     "homepage":  "http://www.jasspa.com/index.html",
     "hash":  "",
     "bin":  "ne32.exe"
